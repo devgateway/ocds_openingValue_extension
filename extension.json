@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Opening Value"
+  },
+  "description": {
+    "en": "This extension will allow DNV to adjust values to opening date due to inflation"
+  },
+  "documentationUrl": {
+    "en": "https://github.com/devgateway/ocds_openingValue_extension"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ]
+}
